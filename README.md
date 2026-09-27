@@ -21,9 +21,11 @@ es la primera; si dice **Intel**, la segunda.
 Es normal: la app todavía no está firmada con Apple ni con Microsoft. Se autoriza
 una sola vez.
 
-- **Mac** — abre el `.dmg`, arrastra CellOS a Aplicaciones y ábrela. Si avisa que
-  no se puede abrir, ve a **Ajustes del sistema → Privacidad y seguridad**, baja
-  hasta abajo y dale **Abrir de todos modos**.
+- **Mac** — abre el `.dmg` y arrastra CellOS a Aplicaciones. Al abrirla dirá que
+  Apple no pudo verificarla, y te va a ofrecer **Mover a la papelera**: no le des
+  ahí, dale **Listo**. Luego ve a **Ajustes del sistema → Privacidad y seguridad**,
+  baja hasta el final (sección *Seguridad*) y dale **Abrir de todos modos** — ese
+  botón aparece solo después de ese primer intento, y pide tu huella o contraseña.
 - **Windows** — al abrir el instalador sale *"Windows protegió tu PC"*. Dale
   **Más información → Ejecutar de todas formas**.
 
